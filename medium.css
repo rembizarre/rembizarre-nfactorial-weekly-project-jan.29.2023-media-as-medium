@@ -173,3 +173,6 @@ footer {
   width: 265px;
   height: 265px;
 }
+#button {
+  width: max-content;
+}
